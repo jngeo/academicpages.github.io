@@ -8,7 +8,7 @@ citation: '<b>Jimson Ngeo</b> [Master's Thesis]. <i>Nara Institute of Science an
 paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR009776_P1-84'
 
 ---  
-[[PDF]](http://jngeo.github.io/files/2013_mthesis_ngeo.pdf) [[Code]]()
+[[PDF]](http://jngeo.github.io/files/mthesis_jngeo.pdf) [[Code]]()
 
 ## Abstract
 Abstract
