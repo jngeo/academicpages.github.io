@@ -1,11 +1,11 @@
 ---
 title: "Modeling dynamic high-DOF finger postures from surface EMG using nonlinear synergies in latent space representation"
 collection: publications
-permalink: /publication/2018_embc_ngeo
+permalink: /publication/2015_embc_ngeo
 venue: "37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Milano, Italy"
-date: 2014-08-14
+date: 2015-08-25
 citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata. <i>37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>.'
-paperurl: 'http://jngeo.github.io/files/2015_embc_ngeo.pdf'
+paperurl: 'http://ieeexplore.ieee.org/document/7318801/'
 
 ---  
 [[PDF]](http://jngeo.github.io/files/2015_embc_ngeo.pdf) [[Code]]()

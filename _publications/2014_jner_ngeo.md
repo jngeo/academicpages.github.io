@@ -3,7 +3,7 @@ title: "Continuous and simultaneous estimation of finger kinematics using inputs
 collection: publications
 permalink: /publication/2013_jner_ngeo
 venue: "Journal of NeuroEngineering and Rehabilitation"
-date: 2015-08-25
+date: 2014-08-14
 citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Tomohiro Shibata. <i>Journal of NeuroEngineering and Rehabilitation</i>.'
 paperurl: 'https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-11-122'
 
