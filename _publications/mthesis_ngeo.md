@@ -1,16 +1,15 @@
 ---
 title: "Continuous Estimation of Finger Joint Angles Using Muscle Activation Inputs from Surface EMG Signals"
 collection: publications
-permalink: /publication/3_2013_mthesis_ngeo
+permalink: /publication/mthesis_ngeo.md
 venue: "Nara Institute of Science and Technology, Japan"
 date: 2013-03-15
-citation: '<b>Jimson Ngeo</b>. Master's Thesis. <i>Nara Institute of Science and Technology</i>.'
+citation: '<b>Jimson Ngeo</b>, Master's Thesis. <i>3Nara Institute of Science and Technology *NAIST</i>.'
 paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR009776_P1-84'
 
 ---  
-#[[PDF]](http://jngeo.github.io/files/mthesis_jngeo.pdf) [[Code]]()
+[[PDF]](http://jngeo.github.io/files/mthesis_jngeo.pdf) [[Code]]()
 
 ## Abstract
 Abstract
-
-Surface electromyography (sEMG) signals are often used in many robot and rehabilitation applications because these reflect the motor intentions of users very well. However, inherent problems such as electromechanical delay (EMD) are present in such applications. Many have focused on discrete classification of hand gestures, but natural hand movements are continuous. In this thesis, we present a method to predict multiple finger joint angles from sEMG singals located in the forearm using a so-called EMG-to-Muscle Activation model that parameterizes EMD. An artificial neural network (ANN) and a Gaussian Process (GP) regressor were both evaluated and used to predict joint angles in movements involving individual and simultaneous finger flexion and extension in two subjects. With ANN, results show correlations as large as 0.92 between measured and predicted finger joint angles and an overall average root-mean-square error of 5 to 12%. Using Gaussian Process gave better prediction results specially when using few training samples. Our results also show that predictions improved when the proposed muscle activation input was used compared to using conventional filtered sEMG or time-domain based features used by related studies. Lastly, a dimensionality analysis of hand and finger movements using Principal Component Analysis (PCA) was done. Our results show that the effective dimensionality is much lower than the theoretical 20 degrees-of-freedom available on the hand. This last part may suggest the existence of motor synergies in the control of the hand.
+Patients suffering from loss of hand functions caused by stroke and other spinal cord injuries have driven a surge in the development of wearable assistive devices in recent years. In this paper, we present a system made up of a low-profile, optimally designed finger exoskeleton continuously controlled by a user's surface electromyographic (sEMG) signals. The mechanical design is based on an optimal four-bar linkage that can model the finger's irregular trajectory due to the finger's varying lengths and changing instantaneous center. The desired joint angle positions are given by the predictive output of an artificial neural network with an EMG-to-Muscle Activation model that parameterizes electromechanical delay (EMD). After confirming good prediction accuracy of multiple finger joint angles we evaluated an index finger exoskeleton by obtaining a subject's EMG signals from the left forearm and using the signal to actuate a finger on the right hand with the exoskeleton. Our results show that our sEMG-based control strategy worked well in controlling the exoskeleton, obtaining the intended positions of the device, and that the subject felt the appropriate motion support from the device.
