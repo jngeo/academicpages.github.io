@@ -1,7 +1,7 @@
 ---
 title: "Continuous estimation of finger joint angles using muscle activation inputs from surface EMG signals"
 collection: publications
-permalink: /publication/2012_embc_ngeo
+permalink: /publication/1_2012_embc_ngeo
 venue: "2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), San Diego, USA"
 date: 2012-08-12
 citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Tomohiro Shibata. <i>2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>.'

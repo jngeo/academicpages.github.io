@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-* I'm currently working in the Operations Team of one of the largest private weather company in the world, [Weathernews Inc. (WNI)](https://global.weathernews.com/your-industry/shipping/) Japan. We provide voyage optimization, weather support and process large amount of data from thousand of marine vessels everyday.
+* currently working in the Operations Team of one of the largest private weather company in the world, [Weathernews Inc. (WNI)](https://global.weathernews.com/your-industry/shipping/) Japan. We provide voyage optimization, weather support and process large amount of data from thousand of marine vessels everyday.
 
-* I'm also a consultant for [Ximity Inc](https://ximity.net/), which is a startup company in the Philippines that focuses on Internet-of-Things (IoT) based technologies. Our goal is to introduce IoT and AI platforms for optimizing services.
+* also a consultant for [Ximity Inc](https://ximity.net/), which is a startup company in the Philippines that focuses on Internet-of-Things (IoT). Our goal is to introduce IoT, mobile and AI platforms for retail services.
 
 Education
 ======
-* I completed my PhD from the Mathematical Informatics Laboratory at NAIST, Japan. I was also a visiting researcher at Shibata Laboratory at Kyutech, Japan.
+* completed my PhD and Master in Information Science Engineering at the [Mathematical Informatics Laboratory](https://sites.google.com/view/milab/) at [NAIST](http://isw3.naist.jp/home-en.html), Japan. I was also a visiting researcher at the [Human and Social Intelligence Laboratory](http://www.brain.kyutech.ac.jp/~tom/) at the Kitakyushu Institute of Technology, Japan.
 
-* I researched on machine learning applications and worked on improving robotic hand rehabilitation using biological signals such as Electromyography (EMG). I worked with robots, assistive technology, prediction models and software development. You can find some of my old demos in: [Ximity Inc](https://www.youtube.com/user/ShibataLab).
+* researched on machine learning applications and worked on improving robotic hand rehabilitation using biological signals such as Electromyography (EMG). I worked with robots, assistive technology, prediction models and software development. You can find some of my old demos in: [videos](https://www.youtube.com/user/ShibataLab).
 
 
 Area of Interests
 ======
-
-
 
 Feel free to message me anytime if you're interested in the work that I do.
 
