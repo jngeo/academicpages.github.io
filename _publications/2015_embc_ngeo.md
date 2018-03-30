@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015_embc_ngeo
 venue: "37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Milano, Italy"
 date: 2015-08-25
-citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata. <i>37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>.'
+citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata. <i>37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>. 2015.'
 paperurl: 'http://ieeexplore.ieee.org/document/7318801/'
 
 ---  

@@ -1,15 +1,15 @@
 ---
-title: "Cloth dynamics modeling in latent spaces and its application to robotic clothing assistance"
+title: "Continuous Estimation of Finger Joint Angles Using Muscle Activation Inputs from Surface EMG Signals"
 collection: publications
 permalink: /publication/2016_test_test
-venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 15), Hamburg, Germany"
+venue: "Nara Institute of Science and Technology, Nara, Japan"
 date: 2016-09-28
-citation: 'Nishanth Koganti, <b>Jimson Ngeo</b>, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata. <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 15)</i>.'
-paperurl: 'http://ieeexplore.ieee.org/document/7353860/'
+citation: '<b>Jimson Ngeo</b>. Doctor's Thesis. <i>Nara Institute of Science and Technology</i>. 2016.'
+paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR012376_P1-111'
 
 ---  
-[[PDF]](http://ieeexplore.ieee.org/document/7353860/) [[Code]]()
+[[PDF]](http://jngeo.github.io/files/mthesis_jngeo.pdf) [[Code]]()
 
 ## Abstract
 Abstract
-Real-time estimation of human-cloth relationship is crucial for efficient learning of motor skills in robotic clothing assistance. However, cloth state estimation using a depth sensor is a challenging problem with inherent ambiguity. To address this problem, we propose the offline learning of a cloth dynamics model by incorporating reliable motion capture data and applying this model for the online tracking of human-cloth relationship using a depth sensor. In this study, we evaluate the performance of using a shared Gaussian Process Latent Variable Model in learning the dynamics of clothing articles. The experimental results demonstrate the effectiveness of shared GP-LVM in capturing cloth dynamics using few data samples and the ability to generalize to unseen settings. We further demonstrate three key factors that affect the predictive performance of the trained dynamics model.
+Patients suffering from loss of hand functions caused by stroke and other spinal cord injuries have driven a surge in the development of wearable assistive devices in recent years. In this paper, we present a system made up of a low-profile, optimally designed finger exoskeleton continuously controlled by a user's surface electromyographic (sEMG) signals. The mechanical design is based on an optimal four-bar linkage that can model the finger's irregular trajectory due to the finger's varying lengths and changing instantaneous center. The desired joint angle positions are given by the predictive output of an artificial neural network with an EMG-to-Muscle Activation model that parameterizes electromechanical delay (EMD). After confirming good prediction accuracy of multiple finger joint angles we evaluated an index finger exoskeleton by obtaining a subject's EMG signals from the left forearm and using the signal to actuate a finger on the right hand with the exoskeleton. Our results show that our sEMG-based control strategy worked well in controlling the exoskeleton, obtaining the intended positions of the device, and that the subject felt the appropriate motion support from the device.
