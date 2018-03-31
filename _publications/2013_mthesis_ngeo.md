@@ -1,11 +1,11 @@
 ---
 title: "Continuous Estimation of Finger Joint Angles Using Muscle Activation Inputs from Surface EMG Signals"
 collection: publications
-permalink: /publication/2016_test_test
-venue: "Nara Institute of Science and Technology, Nara, Japan"
-date: 2019-09-28
-citation: '<b>Jimson Ngeo</b>. Doctor's Thesis. <i>Nara Institute of Science and Technology</i>. 2019.'
-#paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR012376_P1-111'
+permalink: /publication/2013_mthesis_ngeo.md
+venue: "Nara Institute of Science and Technology, Japan"
+date: 2013-03-15
+citation: '<b>Jimson Ngeo</b>, Master Thesis. <i>Nara Institute of Science and Technology (NAIST), 2013.</i>. 2013.'
+#paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR009776_P1-84'
 
 ---  
 [[PDF]](http://jngeo.github.io/files/mthesis_jngeo.pdf) [[Code]]()
