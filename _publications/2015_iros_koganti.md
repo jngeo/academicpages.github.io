@@ -5,7 +5,7 @@ permalink: /publication/2015_iros_koganti
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 15), Hamburg, Germany"
 date: 2015-09-28
 citation: 'Nishanth Koganti, <b>Jimson Ngeo</b>, Tomoya Tamei, Kazushi Ikeda, Tomohiro Shibata. <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 15)</i>. 2015.'
-paperurl: 'http://ieeexplore.ieee.org/document/7353860/'
+#paperurl: 'http://ieeexplore.ieee.org/document/7353860/'
 
 ---  
 [[PDF]](http://ieeexplore.ieee.org/document/7353860/) [[Code]]()

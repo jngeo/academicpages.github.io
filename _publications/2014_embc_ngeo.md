@@ -5,7 +5,7 @@ permalink: /publication/2014_embc_ngeo
 venue: "36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Chicago, USA"
 date: 2014-08-26
 citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Tomohiro Shibata. <i>36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>. 2014.'
-paperurl: 'http://ieeexplore.ieee.org/document/6944386/'
+#paperurl: 'http://ieeexplore.ieee.org/document/6944386/'
 
 ---  
 [[PDF]](http://jngeo.github.io/files/2014_embc_ngeo.pdf) [[Code]]()

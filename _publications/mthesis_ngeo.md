@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/mthesis_ngeo.md
 venue: "Nara Institute of Science and Technology, Japan"
 date: 2013-03-15
-citation: '<b>Jimson Ngeo</b>, Master's Thesis. <i>Nara Institute of Science and Technology *NAIST</i>. 2013.'
-paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR009776_P1-84'
+citation: '<b>Jimson Ngeo</b>, Master's Thesis. <i>Nara Institute of Science and Technology (NAIST), 2013.</i>. 2013.'
+#paperurl: 'https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR009776_P1-84'
 
 ---  
 [[PDF]](http://jngeo.github.io/files/mthesis_jngeo.pdf) [[Code]]()

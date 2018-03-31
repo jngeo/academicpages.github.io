@@ -1,11 +1,11 @@
 ---
 title: "Control of an Optimal Finger Exoskeleton based on Continuous Joint Angle Estimation from EMG signals"
 collection: publications
-permalink: /publication/2_2013_embc_ngeo
+permalink: /publication/2013_embc_ngeo
 venue: "35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Osaka, Japan"
 date: 2013-07-03
 citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Tomohiro Shibata, MF Felix Orlando, Laxmidhar Behera, Anupam Saxena, Ashish Dutta. <i>35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>. 2013.'
-paperurl: 'https://dx.doi.org/10.1109/EMBC.2013.6609506'
+#paperurl: 'https://dx.doi.org/10.1109/EMBC.2013.6609506'
 
 ---  
 [[PDF]](http://jngeo.github.io/files/2013_embc_ngeo.pdf) [[Code]]()

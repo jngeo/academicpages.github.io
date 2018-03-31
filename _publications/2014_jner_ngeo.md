@@ -1,11 +1,11 @@
 ---
 title: "Continuous and simultaneous estimation of finger kinematics using inputs from an EMG-to-muscle activation model"
 collection: publications
-permalink: /publication/2013_jner_ngeo
+permalink: /publication/2014_jner_ngeo
 venue: "Journal of NeuroEngineering and Rehabilitation"
-date: 2014-08-14
+date: 2014-09-14
 citation: '<b>Jimson Ngeo</b>, Tomoya Tamei, Tomohiro Shibata. <i>Journal of NeuroEngineering and Rehabilitation</i>. 2014.'
-paperurl: 'https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-11-122'
+#paperurl: 'https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-11-122'
 
 ---  
 [[PDF]](https://jneuroengrehab.biomedcentral.com/track/pdf/10.1186/1743-0003-11-122?site=jneuroengrehab.biomedcentral.com) [[Code]]()
