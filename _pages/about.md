@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* currently working in the Operations Team of one of the largest private weather company in the world, [Weathernews Inc. (WNI)](https://global.weathernews.com/your-industry/shipping/) Japan. We provide voyage optimization, weather support and process large amount of data from thousand of marine vessels everyday.
+---
 
-* also a consultant for [Ximity Inc](https://ximity.net/), which is a startup company in the Philippines that focuses on Internet-of-Things (IoT). Our goal is to introduce IoT, mobile and AI platforms for retail services.
 
 Education
 ======
